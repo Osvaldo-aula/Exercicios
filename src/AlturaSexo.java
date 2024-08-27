@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*  */
 public class AlturaSexo {
     public static void main(String[] args){
         float maiorAlt = 0, menorAlt = 100, mediaAlt, alt;
